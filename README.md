@@ -31,13 +31,11 @@ Open in a browser of your choice.
 
 ## Features
 
-List of features ready and TODOs for future development
+List of features ready and TODOs for future development:
 
 - Cards expand and contract when selected/deselected
 - Descriptive text fades in during the animation
 - The card amount is reduced from 5 to 3 on screens with a width smaller than 480 pixels.
-
-To-do list:
 
 ## Status
 
