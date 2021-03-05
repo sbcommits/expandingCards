@@ -46,7 +46,7 @@ Project is: _finished_
 ## Inspiration
 
 This is day 1 of the '50 Projects In 50 Days' Udemy course by Brad Traversy and Florin Pop.
-I have chosen this course to practise and solidify my existing HTML, CSS & JavaScript knowledge and to gain a broader understanding of how they all work together to produce the features of websites plus hopefully learn a few tips and tricks along the way.
+I have chosen this course to practise and solidify my existing HTML, CSS & JavaScript knowledge and to gain a broader understanding of how they all work together to produce the features of websites, plus hopefully learn a few tips and tricks along the way.
 
 https://www.udemy.com/course/50-projects-50-days/learn/
 
@@ -54,4 +54,4 @@ https://github.com/bradtraversy/50projects50days
 
 ## Contact
 
-Created by [@sbcommits] - feel free to contact me!
+Created by [@sbcommits](https://github.com/sbcommits/) - feel free to contact me!
